@@ -1,0 +1,14 @@
+{
+  "name": "sdf-front-end",
+  "version": "1.0.0",
+  "description": "Website of a Cat",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Henri Ilves",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
