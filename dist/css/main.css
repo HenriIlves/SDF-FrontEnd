@@ -183,7 +183,7 @@ main {
   flex-direction: column;
   justify-content: space-around; }
 
-.text {
+.infoText {
   width: 100%;
   padding: 20px;
   border: 5px solid #000;
